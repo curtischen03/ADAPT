@@ -70,9 +70,9 @@ export default function LoginButtons() {
       <br />
       <br />
 
-      <img src="/gym1.jpg" className="picture" alt="People working out" />
-      <img src="/gym2.jpg" className="picture" alt="People working out" />
-      <img src="/gym3.jpg" className="picture" alt="People workout out" />
+      <img src="https://i.imgur.com/Z4Zk51s.jpg" className="picture" alt="People working out" />
+      <img src="https://i.imgur.com/MgxbO0J.jpg" className="picture" alt="People working out" />
+      <img src="https://i.imgur.com/t41qNzN.jpg" className="picture" alt="People workout out" />
     </div>
   );
 };

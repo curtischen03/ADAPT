@@ -241,9 +241,9 @@ function Food() {
       </div>
       <DisplayRecipes recipes = {recipes} />
       <br></br>
-      <img src = "/food1.jpg" className = "picture" alt = "Food"/>
-      <img src = "/food2.jpg" className = "picture" alt = "Food"/>
-      <img src = "/food3.jpg" className = "picture" alt = "Food"/>
+      <img src = "https://i.imgur.com/ArH2R4A.jpg" className = "picture" alt = "Food"/>
+      <img src = "https://i.imgur.com/Gqdjl3f.jpg" className = "picture" alt = "Food"/>
+      <img src = "https://i.imgur.com/3Qoz4ry.jpg" className = "picture" alt = "Food"/>
     </>
 
   );

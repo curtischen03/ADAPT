@@ -119,10 +119,10 @@ function changeName(name) {
 
       <br></br>
       <div className = "space"></div>    
-        <img src = "/workout4.jpg" className = "picture" alt = "People working out"/>
-        <img src = "/workout5.jpg" className = "picture" alt = "People working out"/>
-        <img src = "/workout6.jpg" className = "picture" alt = "People working out"/>
-        <img src = "/workout7.jpg" className = "picture" alt = "People working out"/>
+        <img src = "https://i.imgur.com/levqpUq.jpg" className = "picture" alt = "People working out"/>
+        <img src = "https://i.imgur.com/5uvxH1Z.jpg" className = "picture" alt = "People working out"/>
+        <img src = "https://i.imgur.com/YIBXlas.jpg" className = "picture" alt = "People working out"/>
+        <img src = "https://i.imgur.com/xjI6IqR.jpg" className = "picture" alt = "People working out"/>
 
     
     </div>

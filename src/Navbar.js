@@ -9,7 +9,7 @@ function Navbar({signedIn}) {
         <div className = "shift-left">
           <ul>
             <li id = "logo">
-              <img src = "/logo.png" id = "logopic" alt = "logo"/>          
+              <img src = "https://i.imgur.com/aHjhIJg.png" id = "logopic" alt = "logo"/>          
             </li>
             <li>
               <Link to="/">Log In</Link>
@@ -34,7 +34,7 @@ function Navbar({signedIn}) {
         <div className = "shift-left">
           <ul>
             <li id = "logo">
-              <img src = "/logo.png" id = "logopic" alt = "logo"/>
+              <img src = "/https://i.imgur.com/aHjhIJg.png" id = "logopic" alt = "logo"/>
             </li>
             <li>
               <Link to="/">Log In</Link>
