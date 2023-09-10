@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ADAPT/static/css/main.0ae66cb4.css",
-    "main.js": "/ADAPT/static/js/main.254b854a.js",
+    "main.js": "/ADAPT/static/js/main.748cb2eb.js",
     "index.html": "/ADAPT/index.html",
     "main.0ae66cb4.css.map": "/ADAPT/static/css/main.0ae66cb4.css.map",
-    "main.254b854a.js.map": "/ADAPT/static/js/main.254b854a.js.map"
+    "main.748cb2eb.js.map": "/ADAPT/static/js/main.748cb2eb.js.map"
   },
   "entrypoints": [
     "static/css/main.0ae66cb4.css",
-    "static/js/main.254b854a.js"
+    "static/js/main.748cb2eb.js"
   ]
 }
