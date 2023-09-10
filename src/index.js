@@ -12,7 +12,7 @@ import "./index.css";
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter BrowserRouter basename = "/ADAPT">
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Login />} />
